@@ -1,0 +1,8 @@
+tensorflow
+pytesseract
+pdfplumber
+pdf2image
+pillow
+scikit-learn
+streamlit
+reportlab
